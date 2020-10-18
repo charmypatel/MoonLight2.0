@@ -36,7 +36,7 @@ with two other students for about two months with no prior knowledge about Proce
 and paused only through code. Also the animation changes based on the frequency of the current song. For more information regarding the project please 
 visit the link posted below.  
 
-**Youtube Video:** https://www.youtube.com/watch?v=HU1H4tGRb6c&feature=youtu.be 
+**Youtube Video:** https://youtu.be/HU1H4tGRb6c
 
 **Note:** Please visit video link to get a better explaination on how animation works
 
