@@ -8,7 +8,7 @@ on the crescent, color change of the crescent (to only white), and added play, p
 for the user when the project runs. These features were add so the user no longer has to change their code if they want to play, 
 pause, or shuffle music. Once the user enteres their music list into the code, that list is saved and can be used throughout the animation. 
 
-**Youtube Video:** 
+**Youtube Video:** https://youtu.be/d_FXjOK0ASw
 
 **Note:** Please visit video link to get a better explaination on how animation works.
 
