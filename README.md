@@ -14,7 +14,7 @@ pause, or shuffle music. Once the user enteres their music list into the code, t
 
 **Group Members:** I worked on this project solo during Temple University's Owl Hacks 2020 virtual event.
 
-**Purpose:** Now that everyone is taking classes virtually, this animation can be played while meeting roonms are taking a break, or when the host is 
+**Purpose:** Now that everyone is taking classes virtually, this animation can be played while meeting rooms are taking a break, or when the host is 
 waiting for people to join the meeting. 
 
 **Project Duration: October 17, 2020 0 October 18, 2020** 
